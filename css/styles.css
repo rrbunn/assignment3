@@ -1,0 +1,18 @@
+.dropdownstyle {
+	background: #999999;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.menusection {
+	height = 1000px;
+	background: #999999;
+}
+.menuheader {
+	text-align: center;
+	font-size: 1.2em;
+	font-weight: bold;
+}
+.menulist {
+	height: 1000px;
+}
